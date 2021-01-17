@@ -13,5 +13,5 @@ Just a prototype to prove a concept.
     openfl build html5
     
 
-![Just Some Squiggles](https://raw.githubusercontent.com/cbeo/SelfIntersectionPathPrototype/master/self-intersection-closure.gif =200x)
+<img src="https://raw.githubusercontent.com/cbeo/SelfIntersectionPathPrototype/master/self-intersection-closure.gif" width="200px"/>
 
