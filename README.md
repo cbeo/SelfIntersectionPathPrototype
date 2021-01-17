@@ -13,5 +13,5 @@ Just a prototype to prove a concept.
     openfl build html5
     
 
-![Just Some Squiggles](https://github.com/cbeo/SelfIntersectionPathPrototype/self-intersection-closure.gif)
+![Just Some Squiggles](https://raw.githubusercontent.com/cbeo/SelfIntersectionPathPrototype/master/self-intersection-closure.gif)
 
