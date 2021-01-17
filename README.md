@@ -12,3 +12,6 @@ Just a prototype to prove a concept.
     # or 
     openfl build html5
     
+
+![Just Some Squiggles](https://github.com/cbeo/SelfIntersectionPathPrototype/self-intersection-closure.gif)
+
